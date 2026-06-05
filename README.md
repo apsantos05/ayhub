@@ -52,10 +52,6 @@ URLs:
 - Front-end em hot reload: http://localhost:5173
 - Back-end: http://localhost:3333
 
-Login inicial:
-
-- E-mail: `arthurpsantos05@gmail.com`
-- Senha: `ayhub123`
 
 Você pode alterar as credenciais criando `backend/.env`:
 
