@@ -31,7 +31,7 @@ export function LoginPage({ onLogin }) {
     <main className="login-shell">
       <section className="login-panel">
         <div className="login-brand">
-          <div className="brand-mark">AY</div>
+          <img className="brand-logo login-logo" src="/ayhub-logo.svg" alt="AY Hub" />
           <div>
             <strong>AY Hub</strong>
             <span>Painel da AY Social Media</span>

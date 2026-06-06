@@ -18,7 +18,7 @@ export function Sidebar({ activePage, onLogout, onNavigate }) {
   return (
     <aside className="sidebar">
       <div className="brand">
-        <div className="brand-mark">AY</div>
+        <img className="brand-logo" src="/ayhub-logo.svg" alt="AY Hub" />
         <div>
           <strong>AY Hub</strong>
           <span>Social Media</span>

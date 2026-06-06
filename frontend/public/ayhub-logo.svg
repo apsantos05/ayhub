@@ -1,0 +1,45 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AY Hub</title>
+  <desc id="desc">Logo AY Hub com letras AY, arco azul e roxo e simbolo de conexoes.</desc>
+  <rect width="640" height="640" rx="48" fill="#020B22"/>
+  <radialGradient id="bgGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(331 258) rotate(95) scale(300)">
+    <stop stop-color="#123D80" stop-opacity="0.72"/>
+    <stop offset="1" stop-color="#020B22" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="640" height="640" rx="48" fill="url(#bgGlow)"/>
+  <linearGradient id="markGradient" x1="126" y1="181" x2="517" y2="451" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#1289FF"/>
+    <stop offset="0.48" stop-color="#2D73FF"/>
+    <stop offset="1" stop-color="#A347FF"/>
+  </linearGradient>
+  <linearGradient id="hubGradient" x1="244" y1="438" x2="534" y2="438" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#158CFF"/>
+    <stop offset="1" stop-color="#A347FF"/>
+  </linearGradient>
+  <circle cx="318" cy="252" r="145" stroke="url(#markGradient)" stroke-width="26" stroke-linecap="round" stroke-dasharray="735 160"/>
+  <text x="212" y="310" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="900" letter-spacing="-10">AY</text>
+  <circle cx="462" cy="252" r="27" fill="url(#markGradient)"/>
+  <path d="M486 239L528 206" stroke="url(#markGradient)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M490 257L540 276" stroke="url(#markGradient)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M463 219L469 158" stroke="#208CFF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M474 281L496 325" stroke="#6B6BFF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="532" cy="202" r="13" fill="#854DFF"/>
+  <circle cx="543" cy="278" r="13" fill="#854DFF"/>
+  <circle cx="470" cy="154" r="13" fill="#208CFF"/>
+  <circle cx="500" cy="330" r="13" fill="#4B8BFF"/>
+  <text x="119" y="461" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">AY</text>
+  <text x="258" y="461" fill="url(#hubGradient)" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="900" letter-spacing="-2">HUB</text>
+  <rect x="227" y="492" width="185" height="4" rx="2" fill="url(#hubGradient)"/>
+  <text x="131" y="528" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="10">IA PARA CRIACAO DE CONTEUDO</text>
+  <g opacity="0.92">
+    <rect x="186" y="554" width="29" height="29" rx="6" stroke="#2A81FF" stroke-width="4"/>
+    <text x="192" y="575" fill="#2A81FF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">AI</text>
+    <path d="M262 556V584" stroke="white" stroke-opacity="0.65" stroke-width="1.5"/>
+    <circle cx="313" cy="568" r="16" stroke="#A347FF" stroke-width="4"/>
+    <path d="M303 590H323" stroke="#A347FF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M384 583V565M402 583V550M420 583V535" stroke="url(#hubGradient)" stroke-width="8"/>
+    <path d="M464 556V584" stroke="white" stroke-opacity="0.65" stroke-width="1.5"/>
+    <rect x="496" y="554" width="30" height="30" rx="6" stroke="#854DFF" stroke-width="4"/>
+    <path d="M503 569L510 576L522 562" stroke="#854DFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
